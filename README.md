@@ -1,7 +1,7 @@
 # ATM-AND-BANKING-SYSTEM
-# Reg No:
-# Name:
-# Date:
+# Reg No:212225040436
+# Name:Sujitha S
+# Date:08-08-2026
 
 
 # AIM:
