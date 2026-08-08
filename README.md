@@ -40,6 +40,9 @@ UML is the modeling toolkit that you can use to build your diagrams. Use cases a
 Stick figures represent actors in the process, and the actor's participation in the system is modeled with a line between the actor and use case.
 # UML use case diagrams are ideal for:
 
+<img width="782" height="737" alt="image" src="https://github.com/user-attachments/assets/f7f10905-89df-4be2-a1ea-d7bb67d6c2f6" />
+
+
 Representing the goals of system-user interactions
 
 Defining and organizing functional requirements in a system
@@ -87,12 +90,7 @@ organization of the layered architecture within any UML classifier, such as a so
 
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
-
-
-
-
-
-
+<img width="937" height="662" alt="image" src="https://github.com/user-attachments/assets/175cf96c-60b2-495b-be67-54635cf93799" />
 
 # ACTIVITY DIAGRAM:
 
@@ -126,8 +124,6 @@ Represent the details of UML use cases.
 Model the logic of a sophisticated procedure, function, or operation. See how objects and components interact with each other to complete a process.
 
 Plan and understand the detailed functionality of an existing or future scenario.
-
-
 
 
 
